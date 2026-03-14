@@ -1,0 +1,10 @@
+streamlit
+fastapi
+uvicorn
+yfinance
+pandas
+plotly
+requests
+mysql-connector-python
+bcrypt
+pydantic
